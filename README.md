@@ -29,5 +29,5 @@ This back-end application features are:
 - Fetching all tags from specific parents tags
 - Sorting entries by combination of tags
 
-Status of the project: unfinished
-Reason: Programming became more important that previously important music aspirations
+Status of the project: unfinished.
+Reason: Programming became more important that previously important music aspirations.
