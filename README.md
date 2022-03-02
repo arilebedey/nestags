@@ -18,6 +18,9 @@ This means that this song will have a "Waking up" and a "Rock" tag. Now this fea
 But with the help of this CLI application my song's "Rock" tag would itself be capable of having its own tag of "Music genre", and logically the tag "Waking up" would itself have a tag of "Music for..."..
 
 And that way each specific tag would be "nested" into a parent tag which would create a pleasing tree of tags and their "parents" which are easily viewed and used to filter and search for lists bookamrks (for example songs) with specific those tags.
+⠀
+
+⠀
 
 This back-end application features are:
 - Adding a tag
