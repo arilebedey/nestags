@@ -30,4 +30,5 @@ This back-end application features are:
 - Sorting entries by combination of tags
 
 Status of the project: unfinished.
+
 Reason: Programming became more important that previously important music aspirations.
