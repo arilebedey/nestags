@@ -1,6 +1,5 @@
 # nestags
-This repository is a showcase of a project I started to help me add a "nested tags" functionality to my bookmarks database.
-⠀
+This repository is a showcase of a project I started to help me add a "nested tags" functionality to my bookmarks database.⠀
 
 ⠀
 
@@ -18,4 +17,4 @@ This means that this song will have a "Waking up" and a "Rock" tag. Now this fea
 
 Which the help of this CLI application my song could have a "Rock" tag that would itself (the tag) have a tag (of its own), "Music genre", and logically the tag "Waking up" would have a tag of "Music for..."..
 
-And that way I would be able to organize my tags into nested tags that are can easily viewed and properly used to filter my bookmars with the desired parameters.
+And that way each specific tag would be "nested" into a parent tag which would create a pleasing tree of tags and their "parents" which are easily viewed and used to filter and search for lists bookamrks (for example songs) with specific those tags.
