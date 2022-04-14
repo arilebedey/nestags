@@ -22,12 +22,13 @@ And that way each specific tag would be "nested" into a parent tag which would c
 
 ⠀
 
-This back-end application features are:
+This back-end application features were supposed to be:
 - Adding a tag
 - Attributing tag to parent tag
 - Adding parent tags
 - Fetching all tags from specific parents tags
-- Sorting entries by combination of tags
+- Fetching tree of parent tags of specific child tags
+- Sorting entries by combination of tags (of child and/or parent type)
 
 Status of the project: unfinished.
 
